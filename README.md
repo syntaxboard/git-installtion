@@ -1,5 +1,8 @@
 # Installing Git
 [Git for Windows](https://git-scm.com/download/win)
+
+[Git for Mac](https://git-scm.com/download/mac)
+
 # Installation steps
 ![image](https://user-images.githubusercontent.com/51730523/175394668-71458692-f0ee-4583-bb2a-b553c0a51df6.png)
 
